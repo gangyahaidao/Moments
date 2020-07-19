@@ -1,5 +1,8 @@
 一些操作API说明：
 1.参考文档地址：https://www.selenium.dev/documentation/en/webdriver/waits/
+    安装参考文档：https://cuiqingcai.com/5407.html
+                https://cuiqingcai.com/8290.html
+                https://cuiqingcai.com/8293.html
 2.定位元素：
     1.定位一个元素：
         cheese = driver.find_element(By.ID, "cheese")  返回WebElement类型结果
